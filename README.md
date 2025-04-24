@@ -17,9 +17,8 @@
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />
-  <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
-</a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
 </p>
 
 - 🧠 Always ready to learn something new!
