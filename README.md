@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronak Parek</h1>
+<h1 align="center">Hi 👋, I'm Ronak Pareek</h1>
 <h3 align="center">A beginner developer passionate about learning and building cool stuff!</h3>
 
 - 🌱 Exploring web development and AI/ML to broaden my skillset and build impactful projects
