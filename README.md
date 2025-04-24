@@ -38,6 +38,13 @@ Clean, responsive Flask-based UI
 Filtered labels, object highlighting, and image capture
 Beginner-friendly, perfect for AI & web dev practice
 
+### 🃏 Memory Card Game
+
+A browser-based memory matching game built using pure HTML, CSS, and JavaScript.  
+Flip the cards and test your memory as you try to find all the pairs!
+
+🔗 (https://github.com/Ronak23pa/memory-card-game)
+
 ## 🔗 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/ronak-pareek-65285a361" target="_blank">
