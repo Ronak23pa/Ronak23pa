@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40">
    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
@@ -18,7 +19,7 @@
   <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40">
 </p>
 
 - 🧠 Always ready to learn something new!
